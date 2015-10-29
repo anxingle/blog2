@@ -4,16 +4,16 @@ markdown: redcarpet
 
 # 作者信息
 author: 
-  name: horse
-  email: equusprobus@gmail.com
-  link: 
-  weibo: 
-  github: 
+  name: anxingle
+  email: anxingle820@gmail.com
+  link:  anxingle.github.io
+  weibo:  
+  github: github.com/anxingle
   music:
   linkedin: 
 
 # 站点信息
-title: 自由而无用的灵魂
+title: 美歌者
 description: My personal blog
 url: 
 rss_url: /pages/atom.xml
